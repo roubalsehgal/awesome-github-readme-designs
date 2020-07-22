@@ -1,4 +1,4 @@
-<h1 align="center"><b>Awesome Github Profile Readme <i>Designs</i> & <i>Portfolios</i></b></h1>
+<h1 align="center"><b>Awesome Github Profile <i>READMEs</i> & <i>Portfolios</i></b></h1>
 
 <h2><b>Contents 📑</b></h2>
 
