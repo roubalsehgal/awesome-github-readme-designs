@@ -9,38 +9,47 @@
  - <a href="#contributing"><b>CONTRIBUTING</b></a>
  - <a href="#license"><b>License</b></a>
  
-## **Categories ⏬**
+<h2 id="categories"><b>Categories ⏬</b></h2>
  
- * ### Minimalistic 🌟
+ * <h3><a href="#minimalistic">Minimalistic 🌟</a></h3>
  
- * ### Game Style 🎮
+ * <h3><a href="#game-style">Game Style 🎮</a></h3>
  
- * ### Code Style 👨‍💻
- * ### Typo Style ⌨
- * ### Animated Ones 🎞
- * ### Funky Style 🌈
- * ### Innovative 🤗
- * ### Multimedia 📸
+ * <h3><a href="#code-style">Code Style 👨‍💻</a></h3>
+ 
+ * <h3><a href="#typo-style">Typo Style ⌨</a></h3>
+ 
+ * <h3><a href="#animated">Animated Ones 🎞</a></h3>
+ 
+ * <h3><a href="#funky">Funky Style 🌈</a></h3>
+ 
+ * <h3><a href="#innovative">Innovative 🤗</a></h3>
+ 
+ * <h3><a href="#multimedia">Multimedia 📸</a></h3>
 
 <h2 id="github-profiles"><b>GitHub Profiles 🧾</b></h2>
 
- - <b>Minimalistic 🌟</b>
+ * <h4 id="minimalistic">Minimalistic 🌟</h4>
+   
+   * [Dennis Hartrampf](https://github.com/DennisHartrampf/DennisHartrampf)
+   * [Ghazi Khan](https://github.com/gkhan205)
  
-   - [Roubal](https://google.com)
-  
- - <b>Game Style 🎮</b>
-
- - <b>Code Style 👨‍💻</b>
+ * <h4 id="game-style">Game Style 🎮</h4>
  
- - <b>Typo Style ⌨</b>
-
- - <b>Animated Ones 🎞</b>
+ * <h4 id="code-style">Code Style 👨‍💻</h4>
  
- - <b>Funky Style 🌈</b>
-
- - <b>Innovative 🤗</b>
-
- - <b>Multimedia 📸</b>
+ * <h4 id="typo-style">Typo Style ⌨</h4>
+ 
+   * [Mason Slover](https://github.com/MasonSlover/MasonSlover)
+   * [Mathieu Ledru](https://github.com/matyo91/matyo91)
+ 
+ * <h4 id="animated">Animated Ones 🎞</h4>
+ 
+ * <h4 id="funky">Funky Style 🌈</h4>
+ 
+ * <h4 id="innovative">Innovative 🤗</h4>
+ 
+ * <h4 id="multimedia">Multimedia 📸</h4>
 
 <h2 id="portfolios"><b>Portfolios 🖥</b></h2>
 
