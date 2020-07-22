@@ -3,30 +3,30 @@
 
 ## **Contents 📑**
 
- - <a href="#categories"><b>Categories</b></a>
- - <a href="#github-profiles"><b>GitHub profiles</b></a>
- - <a href="#portfolios"><b>Portfolios</b></a>
- - <a href="#tools"><b>Tools</b></a>
- - <a href="#contributing"><b>CONTRIBUTING</b></a>
- - <a href="#license"><b>License</b></a>
+ - [**Categories**](#categories)
+ - [**GitHub profiles**](#github-profiles)
+ - [**Portfolios**](#portfolios)
+ - [**Tools**](#tools)
+ - [**CONTRIBUTING**](#contributing)
+ - [**License**](#license)
  
 <h2 id="categories"><b>Categories ⏬</b></h2>
  
- * ### <a href="#minimalistic">Minimalistic 🌟</a>
+ * ### [Minimalistic 🌟](#minimalistic)
  
- * ### <a href="#game-style">Game Style 🎮</a>
+ * ### [Game Style 🎮](#game-style)
  
- * ### <a href="#code-style">Code Style 👨‍💻</a>
+ * ### [Code Style 👨‍💻](#code-style)
  
- * ### <a href="#typo-style">Typo Style ⌨</a>
+ * ### [Typo Style ⌨](#typo-style)
  
- * ### <a href="#animated">Animated Ones 🎞</a>
+ * ### [Animated Ones 🎞](#animated)
  
- * ### <a href="#funky">Funky Style 🌈</a>
+ * ### [Funky Style 🌈](#funky)
  
- * ### <a href="#innovative">Innovative 🤗</a>
+ * ### [Innovative 🤗](#innovative)
  
- * ### <a href="#multimedia">Multimedia 📸</a>
+ * ### [Multimedia 📸](#multimedia)
 
 <h2 id="github-profiles"><b>GitHub Profiles 🧾</b></h2>
 
@@ -54,10 +54,16 @@
 
 <h2 id="portfolios"><b>Portfolios 🖥</b></h2>
 
+ * hey!
+
 <h2 id="tools"><b>Tools ⚙</b></h2>
+
+ * hey!
 
 <h2 id="contributing"><b>Contributing 🤝</b></h2>
 
   - Please read <a href="https://github.com/roubalsehgal/awesome-github-readme-designs/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a> before starting contributing to this project
 
 <h2 id="license"><b>License ⚖</b></h2>
+
+ * hey!
