@@ -1,2 +1,2 @@
-<h1 align="center">Awesome Github Profile Readme Designs</h1>
+<h1 align="center">Awesome Github Profile README Designs</h1>
 
