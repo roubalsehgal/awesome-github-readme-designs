@@ -1,3 +1,4 @@
+
 <h1 align="center"><b>Awesome Github Profile <i>READMEs</i> & <i>Portfolios</i></b></h1>
 
 ## **Contents 📑**
@@ -11,21 +12,21 @@
  
 <h2 id="categories"><b>Categories ⏬</b></h2>
  
- * <h3><a href="#minimalistic">Minimalistic 🌟</a></h3>
+ * ### <a href="#minimalistic">Minimalistic 🌟</a>
  
- * <h3><a href="#game-style">Game Style 🎮</a></h3>
+ * ### <a href="#game-style">Game Style 🎮</a>
  
- * <h3><a href="#code-style">Code Style 👨‍💻</a></h3>
+ * ### <a href="#code-style">Code Style 👨‍💻</a>
  
- * <h3><a href="#typo-style">Typo Style ⌨</a></h3>
+ * ### <a href="#typo-style">Typo Style ⌨</a>
  
- * <h3><a href="#animated">Animated Ones 🎞</a></h3>
+ * ### <a href="#animated">Animated Ones 🎞</a>
  
- * <h3><a href="#funky">Funky Style 🌈</a></h3>
+ * ### <a href="#funky">Funky Style 🌈</a>
  
- * <h3><a href="#innovative">Innovative 🤗</a></h3>
+ * ### <a href="#innovative">Innovative 🤗</a>
  
- * <h3><a href="#multimedia">Multimedia 📸</a></h3>
+ * ### <a href="#multimedia">Multimedia 📸</a>
 
 <h2 id="github-profiles"><b>GitHub Profiles 🧾</b></h2>
 
