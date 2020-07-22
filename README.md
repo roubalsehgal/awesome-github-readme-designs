@@ -1,18 +1,33 @@
 <h1 align="center"><b>Awesome Github Profile <i>READMEs</i> & <i>Portfolios</i></b></h1>
 
-<h2><b>Contents 📑</b></h2>
+## **Contents 📑**
 
- - <a href="#categories">Categories</a>
- - <a href="#readme-profiles">README profiles</a>
- - <a href="#portfolios">Portfolios</a>
- - <a href="#tools">Tools</a>
- - <a href="#contributing">CONTRIBUTING</a>
- - <a href="#license">License</a>
+ - <a href="#categories"><b>Categories</b></a>
+ - <a href="#github-profiles"><b>GitHub profiles</b></a>
+ - <a href="#portfolios"><b>Portfolios</b></a>
+ - <a href="#tools"><b>Tools</b></a>
+ - <a href="#contributing"><b>CONTRIBUTING</b></a>
+ - <a href="#license"><b>License</b></a>
  
-<h2 id="categories"><b>Categories ⏬</b></h2>
+## **Categories ⏬**
  
+ * ### Minimalistic 🌟
+ 
+ * ### Game Style 🎮
+ 
+ * ### Code Style 👨‍💻
+ * ### Typo Style ⌨
+ * ### Animated Ones 🎞
+ * ### Funky Style 🌈
+ * ### Innovative 🤗
+ * ### Multimedia 📸
+
+<h2 id="github-profiles"><b>GitHub Profiles 🧾</b></h2>
+
  - <b>Minimalistic 🌟</b>
-
+ 
+   - [Roubal](https://google.com)
+  
  - <b>Game Style 🎮</b>
 
  - <b>Code Style 👨‍💻</b>
@@ -26,8 +41,6 @@
  - <b>Innovative 🤗</b>
 
  - <b>Multimedia 📸</b>
-
-<h2 id="readme-profiles"><b>README Profiles 🧾</b></h2>
 
 <h2 id="portfolios"><b>Portfolios 🖥</b></h2>
 
