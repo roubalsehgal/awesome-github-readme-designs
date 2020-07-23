@@ -12,21 +12,21 @@
  
 <h2 id="categories"><b>Categories ⏬</b></h2>
  
- * ### [Minimalistic 🌟](#minimalistic)
+ * #### [Minimalistic 🌟](#minimalistic)
  
- * ### [Game Style 🎮](#game-style)
+ * #### [Game Style 🎮](#game-style)
  
- * ### [Code Style 👨‍💻](#code-style)
+ * #### [Code Style 👨‍💻](#code-style)
  
- * ### [Typo Style ⌨](#typo-style)
+ * #### [Typo Style ⌨](#typo-style)
  
- * ### [Animated Ones 🎞](#animated)
+ * #### [Animated Ones 🎞](#animated)
  
- * ### [Funky Style 🌈](#funky)
+ * #### [Funky Style 🌈](#funky)
  
- * ### [Innovative 🤗](#innovative)
+ * #### [Innovative 🤗](#innovative)
  
- * ### [Multimedia 📸](#multimedia)
+ * #### [Multimedia 📸](#multimedia)
 
 <h2 id="github-profiles"><b>GitHub Profiles 🧾</b></h2>
 
